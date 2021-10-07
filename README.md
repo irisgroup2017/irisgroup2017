@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **irisgroup2017/irisgroup2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - address : 710 Pradit Manu Tham Road., Khlong Chaokhun Sing, Khet Wang Thonglang, Bangkok, 10310, Thailand.
--->
+
