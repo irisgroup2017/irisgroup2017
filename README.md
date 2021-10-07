@@ -6,8 +6,9 @@
 - 😄  Instagram : https://www.instagram.com/iris_group/
 - ⚡  Youtube : https://www.youtube.com/user/iris4info
 - ✨  Address : 710 Pradit Manu Tham Road., Khlong Chaokhun Sing, Khet Wang Thonglang, Bangkok, 10310, Thailand.
+- Write a program until you die.
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-Write a program until you die.
+
 
 
 
